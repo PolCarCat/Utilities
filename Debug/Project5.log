@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\polcc\documents\visual studio 2015\projects\project5\project5\vec3.h(98): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  c:\users\polcc\documents\visual studio 2015\projects\project5\project5\vec3.h(96): note: while compiling class template member function 'float vec3<int>::distance(const vec3<int>)'
+  c:\users\polcc\documents\visual studio 2015\projects\project5\project5\source.cpp(10): note: see reference to function template instantiation 'float vec3<int>::distance(const vec3<int>)' being compiled
+  c:\users\polcc\documents\visual studio 2015\projects\project5\project5\source.cpp(7): note: see reference to class template instantiation 'vec3<int>' being compiled
+  Project5.vcxproj -> c:\users\polcc\documents\visual studio 2015\Projects\Project5\Debug\Project5.exe
+  Project5.vcxproj -> c:\users\polcc\documents\visual studio 2015\Projects\Project5\Debug\Project5.pdb (Partial PDB)
