@@ -1,16 +1,16 @@
-#pragma once
+
 #include <cmath>
 
-template <class T>
+template <class TYPE>
 
 class vec3
 {
 
-	T x, y, z;
+	TYPE x, y, z;
 
 public:
 
-	vec3(T x1, T y1, T z1) {
+	vec3(TYPE x1, TYPE y1, TYPE z1) {
 		x = x1;
 		y = y1;
 		z = z1;
